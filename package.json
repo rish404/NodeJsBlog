@@ -1,0 +1,26 @@
+{
+  "name": "nodejsblog",
+  "version": "1.0.0",
+  "description": "",
+  "main": "files.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rish404/NodeJsBlog.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rish404/NodeJsBlog/issues"
+  },
+  "homepage": "https://github.com/rish404/NodeJsBlog#readme",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
+}
